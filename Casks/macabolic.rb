@@ -1,6 +1,6 @@
 cask "macabolic" do
   version "2.2.0"
-  sha256 "5ab51fd3960fabfb555801162a6c16969971c787bc21b996f2a64ce32820d84e"
+  sha256 "3cbe16109c9153b97a6a852849a9cac4a27b831aac20f81216803e5a8b342144"
 
   url "https://github.com/alinuxpengui/Macabolic/releases/download/v#{version}/Macabolic-v#{version}.dmg"
   name "Macabolic"
